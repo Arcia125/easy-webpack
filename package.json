@@ -9,6 +9,10 @@
   "author": "",
   "license": "ISC",
   "bin": {
-  	"easy-webpack": "./index.js"
-  }
+    "easy-webpack": "./index.js"
+  },
+  "dependencies": {
+    "chalk": "^1.1.3"
+  },
+  "devDependencies": {}
 }
