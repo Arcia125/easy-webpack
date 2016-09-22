@@ -1,0 +1,657 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"backgrou",
+				"background"
+			],
+			[
+				"portfolio",
+				"portfolio-item"
+			],
+			[
+				"de",
+				"desc"
+			],
+			[
+				"proj",
+				"project"
+			],
+			[
+				"project",
+				"projectImageSm"
+			],
+			[
+				"tex",
+				"text-transform"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"no",
+				"nowrap"
+			],
+			[
+				"ran",
+				"randInput"
+			],
+			[
+				"consol",
+				"consoleText"
+			],
+			[
+				"backgr",
+				"background"
+			],
+			[
+				"this",
+				"thisElement"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"class",
+				"className"
+			],
+			[
+				"crea",
+				"createReact	react component"
+			],
+			[
+				"creat",
+				"createDocumentFragment()	Document"
+			],
+			[
+				"imageh",
+				"imageHeaderSubtitle"
+			],
+			[
+				"img",
+				"imgSrc"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"bacg",
+				"background-position"
+			],
+			[
+				"background",
+				"backgroundImage	Style CSS"
+			],
+			[
+				"display",
+				"display-reasons"
+			],
+			[
+				"create",
+				"createElement(tagName)	Document"
+			],
+			[
+				"backgroun",
+				"background-size"
+			],
+			[
+				"back",
+				"background-position"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"r",
+				"require"
+			],
+			[
+				"Reac",
+				"React.Component	Component Template (ES2015)"
+			],
+			[
+				"re",
+				"require	commonjs"
+			],
+			[
+				"d",
+				"div	<div>"
+			],
+			[
+				"getEl",
+				"getElementById(id)	Element"
+			],
+			[
+				"al",
+				"text-align"
+			],
+			[
+				"webp",
+				"webpack-dev-server"
+			],
+			[
+				"bd",
+				"body	Tag"
+			],
+			[
+				"h",
+				"head	Tag"
+			],
+			[
+				"open",
+				"openSquares"
+			],
+			[
+				"get",
+				"getSquare"
+			],
+			[
+				"Ch",
+				"checkForWin"
+			],
+			[
+				"winn",
+				"winningLine"
+			],
+			[
+				"is",
+				"isFull"
+			],
+			[
+				"board",
+				"boardState"
+			],
+			[
+				"b",
+				"boardState"
+			],
+			[
+				"check",
+				"checkForWin"
+			],
+			[
+				"i",
+				"indexes"
+			],
+			[
+				"bo",
+				"boardState"
+			],
+			[
+				"computer",
+				"computerMoves"
+			],
+			[
+				"elem",
+				"elementID"
+			],
+			[
+				"ele",
+				"elementID"
+			],
+			[
+				"e",
+				"elementID"
+			],
+			[
+				"empt",
+				"emptyBoard"
+			],
+			[
+				"boa",
+				"board"
+			],
+			[
+				"top",
+				"topRight"
+			],
+			[
+				"find",
+				"findOpenSquare"
+			],
+			[
+				"boar",
+				"boardArr"
+			],
+			[
+				"player",
+				"playerMoves"
+			],
+			[
+				"toggle",
+				"toggleTurn"
+			],
+			[
+				"gam",
+				"gameSquares"
+			],
+			[
+				"turn",
+				"turnCount"
+			],
+			[
+				"togg",
+				"toggleTurn"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Snippet: ",
+		"selected_items":
+		[
+			[
+				"Snippet: ",
+				"Snippet: react component"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 464.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/taure/Desktop/WebDev/tools/easy-webpack/index.js",
+		"/C/Users/taure/Desktop/WebDev/cmd.bat",
+		"/C/Users/taure/Desktop/WebDev/kevinmhallett/webpack.config.js",
+		"/C/Users/taure/Desktop/WebDev/kevinmhallett/package.json",
+		"/C/Users/taure/Desktop/WebDev/leaderboard/package.json",
+		"/C/Users/taure/Desktop/WebDev/leaderboard/webpack.config.js",
+		"/C/Users/taure/Desktop/WebDev/freecodecamp leaderboard/kevinmhallett/src/index.html",
+		"/C/Users/taure/Desktop/WebDev/freecodecamp leaderboard/package.json",
+		"/C/Users/taure/Desktop/WebDev/recipebox/package.json",
+		"/C/Users/taure/Desktop/WebDev/recipebox/src/main.js",
+		"/C/Users/taure/Desktop/WebDev/kevinmhallett/src/app/portfolio.js",
+		"/C/Users/taure/Desktop/WebDev/kevinmhallett/src/app/components/title/_title.scss",
+		"/C/Users/taure/Desktop/WebDev/kevinmhallett/src/app/components/section/_section.scss",
+		"/C/Users/taure/Desktop/WebDev/kevinmhallett/src/utilities/_variables.scss",
+		"/C/Users/taure/Desktop/WebDev/kevinmhallett/src/app/components/image-header/_image-header.scss",
+		"/C/Users/taure/Desktop/WebDev/recipebox/src/app/recipebox.js",
+		"/C/Users/taure/Desktop/WebDev/recipebox/src/app/components/inputbox/inputbox.js",
+		"/C/Users/taure/Desktop/WebDev/kevinmhallett/src/index.html",
+		"/C/Users/taure/Desktop/WebDev/recipebox/src/app/components/recipe/recipe.js",
+		"/C/Users/taure/Desktop/WebDev/recipebox/src/index.html",
+		"/C/Users/taure/Desktop/WebDev/recipebox/webpack.config.js",
+		"/C/Users/taure/Desktop/WebDev/kevinmhallett/src/main.scss",
+		"/C/Users/taure/Desktop/WebDev/kevinmhallett/src/app/components/project/project.js",
+		"/C/Users/taure/Desktop/WebDev/kevinmhallett/kevinmhallett.sublime-project",
+		"/C/Users/taure/Desktop/WebDev/kevinmhallett/src/app/components/section/section.js",
+		"/C/Users/taure/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/taure/AppData/Roaming/Sublime Text 3/Packages/User/react component.sublime-snippet",
+		"/C/Users/taure/Desktop/WebDev/kevinmhallett/src/app/components/project/_project.scss",
+		"/C/Users/taure/Desktop/WebDev/recipebox/src/app/recipebox.jsx",
+		"/C/Users/taure/Desktop/WebDev/kevinmhallett/src/app/components/grid/grid.js",
+		"/C/Users/taure/Desktop/WebDev/kevinmhallett/src/app/components/grid/_grid.scss",
+		"/C/Users/taure/Desktop/WebDev/recipebox/src/main.jsx",
+		"/C/Users/taure/Desktop/WebDev/kevinmhallett/src/app/components/image-header/image-header.js",
+		"/C/Users/taure/Desktop/WebDev/kevinmhallett/src/app/components/title/title.js",
+		"/C/Users/taure/Desktop/WebDev/kevinmhallett/node_modules/typed.js/dist/typed.min.js",
+		"/C/Users/taure/Desktop/WebDev/kevinmhallett/node_modules/typed.js/js/typed.js",
+		"/C/Users/taure/Desktop/WebDev/kevinmhallett/src/app/components/animated-header/animated-header.js",
+		"/C/Users/taure/Desktop/WebDev/kevinmhallett/src/app/components/text-console/text-console.js",
+		"/C/Users/taure/Desktop/WebDev/kevinmhallett/src/app/components/text-console/_text-console.scss",
+		"/C/Users/taure/Desktop/WebDev/kevinmhallett/src/app/components/animated-header/_animated-header.scss",
+		"/C/Users/taure/Desktop/WebDev/kevinmhallett/node_modules/typed.js/gulpfile.js",
+		"/C/Users/taure/Desktop/WebDev/kevinmhallett/src/app/components/page-text/page-text.js",
+		"/C/Users/taure/Desktop/WebDev/kevinmhallett/src/app/components/page-text/_page-text.scss",
+		"/C/Users/taure/Desktop/WebDev/kevinmhallett/src/app/components/subtitle/_subtitle.scss",
+		"/C/Users/taure/Desktop/WebDev/kevinmhallett/src/app/components/subtitle/subtitle.js",
+		"/C/Users/taure/Desktop/WebDev/kevinmhallett/src/app/components/page-text.js",
+		"/C/Users/taure/Desktop/WebDev/kevinmhallett/src/app/components/_page-text.scss",
+		"/C/Users/taure/Desktop/WebDev/kevinmhallett/src/app/components/page-text",
+		"/C/Users/taure/Desktop/WebDev/kevinmhallett/src/main.js",
+		"/C/Users/taure/Desktop/WebDev/kevinmhallett/dist/main.js",
+		"/C/Users/taure/Desktop/WebDev/kevinmhallett/webpack.tests.config.js",
+		"/C/Users/taure/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/C/Users/taure/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/taure/AppData/Roaming/Sublime Text 3/Packages/ESLint/ESLint.sublime-settings",
+		"/C/Users/taure/Desktop/WebDev/kevinmhallett/src/app/components/image-header/title/title.js",
+		"/C/Users/taure/Desktop/WebDev/kevinmhallett/.babelrc",
+		"/C/Users/taure/Desktop/WebDev/kevinmhallett/.gitignore",
+		"/C/Users/taure/Desktop/WebDev/kevinmhallett/src/app/portfolio.test.js",
+		"/C/Users/taure/Desktop/WebDev/kevinmhallett/src/app/components/kurokami.js",
+		"/C/Users/taure/Desktop/WebDev/kevinmhallett/node_modules/react/lib/accumulate.js",
+		"/C/Users/taure/Desktop/WebDev/kevinmhallett/node_modules/react/lib/isTextInputElement.js",
+		"/C/Users/taure/Desktop/WebDev/kevinmhallett/src/app/components/_section.scss",
+		"/C/Users/taure/Desktop/WebDev/kevinmhallett/src/app/components/section.js",
+		"/C/Users/taure/Desktop/WebDev/recipebox/src/app/components/recipe/_recipe.scss",
+		"/C/Users/taure/Desktop/WebDev/recipebox/src/app/components/inputbox/_inputbox.scss",
+		"/C/Users/taure/Desktop/WebDev/recipebox/src/app/components/ingredient/_ingredient.scss",
+		"/C/Users/taure/Desktop/WebDev/recipebox/src/app/_recipebox.scss",
+		"/C/Users/taure/Desktop/WebDev/kevinmhallett/dist/vendor.bundle.js",
+		"/C/Users/taure/Desktop/WebDev/kevinmhallett/src/app/components/image-header.js",
+		"/C/Users/taure/Desktop/WebDev/kevinmhallett/src/app/components/_image-header.scss",
+		"/C/Users/taure/Desktop/WebDev/recipebox/dist/main.js",
+		"/C/Users/taure/Desktop/WebDev/kevinmhallett/mystats.json",
+		"/C/Users/taure/Desktop/WebDev/kevinmhallett/stats.json",
+		"/C/Users/taure/Desktop/WebDev/hijackButton/src/main.js",
+		"/C/Users/taure/Downloads/august ames tits cum",
+		"/C/Users/taure/Desktop/WebDev/kevinmhallett/cmd.lnk",
+		"/C/Users/taure/Desktop/WebDev/kevinmhallett/unit-tests/tests/index.html",
+		"/C/Users/taure/Desktop/WebDev/kevinmhallett/unit-tests/test.build.js",
+		"/C/Users/taure/Desktop/WebDev/kevinmhallett/tests/index.html",
+		"/C/Users/taure/Desktop/WebDev/redditjs.js",
+		"/C/Users/taure/Desktop/WebDev/kevinmhallett/dist/main.js.map",
+		"/C/Users/taure/Desktop/WebDev/kevinmhallett/dist/index.html",
+		"/C/Users/taure/Desktop/WebDev/kevinmhallett/tests/index.js",
+		"/C/Users/taure/Desktop/WebDev/kevinmhallett/src/app/components/image-header.test.js",
+		"/C/Users/taure/Desktop/WebDev/kevinmhallett/src/images/javascript1-cropped.png",
+		"/C/Users/taure/Desktop/WebDev/recipebox/src/utilities/_variables.scss",
+		"/C/Users/taure/Desktop/WebDev/recipebox/src/main.scss",
+		"/C/Users/taure/Desktop/WebDev/recipebox/src/app/components/ingredient/ingredient.jsx",
+		"/C/Users/taure/Desktop/WebDev/kevinmhallett/dist/html.js",
+		"/C/Users/taure/Desktop/WebDev/kevinmhallett/src/main.jsx",
+		"/C/Users/taure/Desktop/WebDev/kevinmhallett/src/app/portfolio.jsx",
+		"/C/Users/taure/Desktop/WebDev/kevinmhallett/tests/setup.js",
+		"/C/Users/taure/Desktop/WebDev/kevinmhallett/src/app/components/image-header.jsx",
+		"/C/Users/taure/Desktop/WebDev/kevinmhallett/.bablerc",
+		"/C/Users/taure/Desktop/WebDev/hijackButton/webpack.config.js",
+		"/C/Users/taure/Desktop/WebDev/Ideas/time management web app.txt",
+		"/C/Users/taure/Desktop/WebDev/Ideas/javascript debugging idea.txt",
+		"/C/Users/taure/Desktop/WebDev/hijackButton/index.html",
+		"/C/Users/taure/Desktop/WebDev/old kevinmhallett/Portfolio/index.html",
+		"/C/Users/taure/Desktop/WebDev/Ideas/google querier.txt",
+		"/C/Users/taure/Desktop/WebDev/Ideas/bookmark webapp.txt",
+		"/C/Users/taure/Desktop/WebDev/hijackButton/package.json",
+		"/C/Users/taure/Desktop/WebDev/hijackButton/dist/main.js",
+		"/C/Users/taure/Desktop/WebDev/hijackButton/dist/main.js.map",
+		"/C/Users/taure/Desktop/WebDev/hijackButton/node_modules/mocha/lib/mocha.js",
+		"/C/Users/taure/Desktop/WebDev/hijackButton/node_modules/mocha/package.json",
+		"/C/Users/taure/Desktop/WebDev/hijackButton/node_modules/mocha/mocha.js",
+		"/C/Users/taure/Desktop/WebDev/hijackButton/tests/test.js",
+		"/C/Users/taure/Desktop/WebDev/hijackButton/node_modules/mocha/browser-entry.js",
+		"/C/Users/taure/Desktop/Assign6",
+		"/C/Users/taure/Desktop/recipebox/src/app/components/inputbox/inputbox.scss",
+		"/C/Users/taure/Desktop/recipebox/src/app/recipebox.jsx",
+		"/C/Users/taure/Desktop/recipebox/src/main.scss",
+		"/C/Users/taure/Desktop/reactApp/webpack.config.js",
+		"/C/Users/taure/Desktop/recipebox/src/app/components/recipe/recipe.scss",
+		"/C/Users/taure/Desktop/recipebox/src/app/components/recipe/recipe.jsx",
+		"/C/Users/taure/Desktop/recipebox/src/main.jsx",
+		"/C/Users/taure/Desktop/recipebox/src/app/components/inputbox/inputbox.js",
+		"/C/Users/taure/Desktop/recipebox/src/app/components/modal/modal.scss",
+		"/C/Users/taure/Desktop/recipebox/src/app/components/modal/modal.js",
+		"/C/Users/taure/Desktop/recipebox/src/app/components/recipe/recipe.js",
+		"/C/Users/taure/Desktop/recipebox/src/app/components/ingredient/ingredient.js",
+		"/C/Users/taure/Desktop/recipebox/index.html",
+		"/C/Users/taure/Desktop/recipebox/src/app/recipebox.js",
+		"/C/Users/taure/Desktop/recipebox/src/app/recipebox.scss",
+		"/C/Users/taure/Desktop/recipebox/src/app/components/ingredient/ingredient.scss",
+		"/C/Users/taure/Desktop/recipebox/src/main.js",
+		"/C/Users/taure/Desktop/recipebox/src/styles/utilities/_variables.scss"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"'",
+			"title",
+			"project",
+			"title_font",
+			"project-item",
+			"project",
+			"\n$",
+			"portfolio",
+			"portfolio-item",
+			"portfolio",
+			"subtitle",
+			"p",
+			", smImg: projectImageSm",
+			"test",
+			"center",
+			"left",
+			"$about-me_Font",
+			"about-me",
+			"me",
+			"backspace",
+			"title",
+			"div",
+			";",
+			"imgUrl",
+			"about",
+			"projects",
+			"1",
+			"3",
+			" $justify",
+			"$align-items",
+			"align",
+			"$align-content",
+			"image-header",
+			"header",
+			"image",
+			"header",
+			"React = __webpack_require",
+			"contains",
+			"align",
+			"recipe",
+			"modal",
+			"inputbox",
+			"ingredient",
+			"recipe",
+			"modal",
+			"inputbox",
+			"recipe-button-label",
+			"fade",
+			"theme",
+			"outer",
+			"var outerRight = centerX + outerR, centerY;\n  var outerBottom = centerX, centerY + outerR;\n  var outerLeft = centerX - outerR, centerY;\n  var outerTop = centerX, centerY - outerR;",
+			"innerRadius",
+			"outerRadius",
+			"continue",
+			"line",
+			"continue",
+			"topLeft",
+			"playerMoves",
+			"findPlayer",
+			"boardState",
+			"[];\n",
+			"getBoard",
+			"update",
+			"$(this)",
+			"getlocation",
+			"update",
+			"openSquares",
+			"openSquare",
+			"findOPen",
+			"computer",
+			"getBoardState",
+			"Game()",
+			"BoardState",
+			"boardState",
+			"console",
+			"get",
+			"for",
+			"console",
+			"PlayerMoves",
+			"playerMoves",
+			"ticTacToe"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\"",
+			"inner",
+			"innerR",
+			"outerR",
+			"outerRadius",
+			"game"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "package.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"main.js",
+				"src\\main.js"
+			],
+			[
+				"title",
+				"src\\app\\components\\title\\title.js"
+			],
+			[
+				"",
+				"untitled"
+			],
+			[
+				"portfolio",
+				"src\\app\\portfolio.test.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": false,
+	"side_bar_visible": true,
+	"side_bar_width": 273.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
