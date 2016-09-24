@@ -18,7 +18,6 @@ let devDeps = [
 'babel-core',
 'babel-loader',
 'babel-preset-es2015',
-'babel-preset-react',
 'css-loader',
 'file-loader',
 'node-sass',
@@ -34,8 +33,6 @@ let devDeps = [
 
 // npm dependencies
 let deps = [
-'react',
-'react-dom'
 ];
 
 // commands
